@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/LGMing/Android_Projects/zxingDemo/lib_zxing/src/main/assets"/><source path="/Users/LGMing/Android_Projects/zxingDemo/lib_zxing/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/LGMing/Android_Projects/zxingDemo/lib_zxing/src/release/assets"/></dataSet></merger>
